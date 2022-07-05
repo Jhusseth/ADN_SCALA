@@ -1,6 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
-[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\jhusseth.sanchez\Documents\ADN\Scala\Proyecto\play-scala-project\conf\application.conf,C:\Users\jhusseth.sanchez\Documents\ADN\Scala\Proyecto\play-scala-project\target\scala-2.13\classes\application.conf)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\jhusseth.sanchez\Documents\ADN\Scala\Proyecto\play-scala-project\conf\logback.xml,C:\Users\jhusseth.sanchez\Documents\ADN\Scala\Proyecto\play-scala-project\target\scala-2.13\classes\logback.xml)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\jhusseth.sanchez\Documents\ADN\Scala\Proyecto\play-scala-project\conf\routes,C:\Users\jhusseth.sanchez\Documents\ADN\Scala\Proyecto\play-scala-project\target\scala-2.13\classes\routes)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\jhusseth.sanchez\Documents\ADN\Scala\Proyecto\play-scala-project\conf\secure.conf,C:\Users\jhusseth.sanchez\Documents\ADN\Scala\Proyecto\play-scala-project\target\scala-2.13\classes\secure.conf)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\jhusseth.sanchez\Documents\ADN\Scala\Proyecto\play-scala-project\conf\evolutions\default\1.sql,C:\Users\jhusseth.sanchez\Documents\ADN\Scala\Proyecto\play-scala-project\target\scala-2.13\classes\evolutions\default\1.sql)[0m

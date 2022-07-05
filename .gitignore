@@ -1,7 +1,7 @@
 *.class
 *.log
-project/target/**
-project/project/**
-target/**
-.idea
-.bsp
+.project/target/**
+.project/project/**
+.target/**
+.idea/**
+.bsp/**

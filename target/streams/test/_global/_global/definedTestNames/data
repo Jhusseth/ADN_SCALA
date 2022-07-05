@@ -1,1 +1,0 @@
-["users.infrastructure.controller.PersonQueryControllerTest","users.domain.model.PersonTest","users.domain.service.PersonUpdateServiceTest","users.domain.service.PersonCreateServiceTest","users.infrastructure.controller.PersonCommandControllerTest","users.domain.service.PersonDeleteServiceTest"]

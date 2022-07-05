@@ -1,0 +1,8 @@
+#Successful Tests
+#Tue Jul 05 13:12:50 COT 2022
+users.infrastructure.controller.PersonQueryControllerTest=1657044769387
+users.domain.model.PersonTest=1657044769431
+users.domain.service.PersonUpdateServiceTest=1657044769812
+users.domain.service.PersonCreateServiceTest=1657044769823
+users.infrastructure.controller.PersonCommandControllerTest=1657044770105
+users.domain.service.PersonDeleteServiceTest=1657044770119

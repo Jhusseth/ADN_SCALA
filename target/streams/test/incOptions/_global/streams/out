@@ -1,0 +1,16 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Users\jhusseth.sanchez\Documents\ADN\Scala\Proyecto\play-scala-project\target\scala-2.13\test-classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestKit$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestKit$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PersonCreateServiceTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PersonTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PersonUpdateServiceTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestKit.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DatabaseTestKit.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PersonQueryControllerTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PersonDeleteServiceTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PersonCommandControllerTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AppTestKit.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\Users\jhusseth.sanchez\Documents\ADN\Scala\Proyecto\play-scala-project\target\scala-2.13\test-classes.bak[0m
